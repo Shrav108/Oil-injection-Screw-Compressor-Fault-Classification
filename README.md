@@ -9,6 +9,14 @@
 
 ![](https://github.com/Shrav108/Oil-injection-Screw-Compressor-Fault-Classification/blob/main/Pictures/Screw%20Compressor%20Classifier.PNG)
 
+### Fault Description
+
+There are total of 5 states for the model to predict.
+1. Normal Condition
+2. Unbalance Condition
+3. Belt Looseness Condition
+4. Belt Looseness High Condition
+5. Bearing Fault Condition
 
 ### References
 
